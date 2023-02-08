@@ -28,3 +28,15 @@ If we observe that a rule holds in one store, but not in any other (or does not 
 Although Market Basket Analysis conjures up pictures of shopping carts and supermarket shoppers, it is important to realize that there are many other areas in which it can be applied. These include:
 
 Analysis of credit card purchases. Analysis of telephone calling patterns. Identification of fraudulent medical insurance claims. (Consider cases where common rules are broken). Analysis of telecom service purchases. Note that despite the terminology, there is no requirement for all the items to be purchased at the same time. The algorithms can be adapted to look at a sequence of purchases (or events) spread out over time. A predictive market basket analysis can be used to identify sets of item purchases (or events) that generally occur in sequence — something of interest to direct marketers, criminologists and many others.
+
+## Dependencies
+Python3
+
+pandas
+
+mlxtend
+
+seaborn
+
+## References
+The dataset used in this project can be found at [https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset](https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset)
