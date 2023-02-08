@@ -39,4 +39,4 @@ mlxtend
 seaborn
 
 ## References
-The dataset used in this project can be found at [https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset](https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset)
+The dataset used in this project can be found at (https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset)
